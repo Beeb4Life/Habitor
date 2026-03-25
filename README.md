@@ -1,2 +1,3 @@
 # Habitor
-A Go-based CLI application to manage tasks, organize habits, and track daily schedules to improve discipline and increase productivity.
+
+This Project is made using charmbracelets cli visualizer and ui components
